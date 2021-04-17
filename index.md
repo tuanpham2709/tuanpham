@@ -26,6 +26,19 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="1;url=html/index.html">
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        If you are not redirected automatically, 
+        follow the <a href="html/index.html">link to the documentation</a>
+    </body>
+</html>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
